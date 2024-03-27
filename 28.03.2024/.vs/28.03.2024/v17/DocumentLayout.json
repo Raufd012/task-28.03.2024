@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\28.03.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80D64A-B372-4F62-AADC-FE1C31CC4622}|28.03.2024\\28.03.2024.csproj|c:\\users\\user\\desktop\\28.03.2024\\28.03.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80D64A-B372-4F62-AADC-FE1C31CC4622}|28.03.2024\\28.03.2024.csproj|solutionrelative:28.03.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D80D64A-B372-4F62-AADC-FE1C31CC4622}|28.03.2024\\28.03.2024.csproj|c:\\users\\user\\desktop\\28.03.2024\\28.03.2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D80D64A-B372-4F62-AADC-FE1C31CC4622}|28.03.2024\\28.03.2024.csproj|solutionrelative:28.03.2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\28.03.2024\\28.03.2024\\Class1.cs",
+              "RelativeDocumentMoniker": "28.03.2024\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\28.03.2024\\28.03.2024\\Class1.cs",
+              "RelativeToolTip": "28.03.2024\\Class1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwCkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:19:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\28.03.2024\\28.03.2024\\Program.cs",
+              "RelativeDocumentMoniker": "28.03.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\28.03.2024\\28.03.2024\\Program.cs",
+              "RelativeToolTip": "28.03.2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:40:16.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
